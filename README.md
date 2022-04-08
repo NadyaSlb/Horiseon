@@ -8,7 +8,7 @@ A website that offers social media servises
 * CSS
 
 ## Screenshot
-![alt screenshot](assets\images\Screenshot 2022-04-07 21.20.08.png)
+![Image alt](assets\images\Screenshot 2022-04-07 21.46.56.png)
 
 ## Website
 https://nadyaslb.github.io/Horiseon/
